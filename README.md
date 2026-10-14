@@ -1,16 +1,21 @@
-## Hi there 👋
+# Tim Broyles
 
-<!--
-**t1minator/t1minator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software architect and engineering leader**
 
-Here are some ideas to get you started:
+DNA to railroads, GPS to IoT, and AI in everything.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I turn hard problems into working products. My background spans startups and small companies, from embedded instruments and rail/GPS systems to connected devices, mobile apps, cloud platforms, and AI.
+
+## How I work
+
+I stay close to the code while leading teams. I enjoy sorting out unclear requirements, making practical architecture decisions, and helping engineers learn new tools and approaches.
+
+## What I build
+
+- **Embedded and physical systems:** bio-instrumentation, real-time control, and hardware/software integration.
+- **Connected products:** IoT devices, cloud services, and mobile applications.
+- **AI systems:** computer vision, retrieval-augmented generation (RAG), and AI-assisted software delivery.
+
+## What I am looking for
+
+A small team tackling a problem worth solving, where I can build, lead, and help others grow.
