@@ -16,6 +16,6 @@ I stay close to the code while leading teams. I enjoy sorting out unclear requir
 - **Connected products:** IoT devices, cloud services, and mobile applications.
 - **AI systems:** computer vision, retrieval-augmented generation (RAG), and AI-assisted software delivery.
 
-## What I am looking for
+## What I Enjoy
 
 A small team tackling a problem worth solving, where I can build, lead, and help others grow.
